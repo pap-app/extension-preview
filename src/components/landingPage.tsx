@@ -132,7 +132,7 @@ export default function Landing() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-xl lg:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed"
             >
-              An <span className="font-semibold text-blue-600">AI-powered</span> wallet assistant that discovers, recommends, and notifies — so you never miss a vault again.
+              An <span className="font-semibold text-blue-600">AI-powered</span> wallet assistant that discovers, recommends, manages, and notifies — so you never miss a vault again.
             </motion.p>
 
             {/* Store Buttons */}
